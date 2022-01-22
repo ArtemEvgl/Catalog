@@ -34,7 +34,7 @@ namespace Catalog
             BsonSerializer.RegisterSerializer(new GuidSerializer(MongoDB.Bson.BsonType.String));
             BsonSerializer.RegisterSerializer(new DateTimeOffsetSerializer(MongoDB.Bson.BsonType.String));
 
-            services.AddControllers();
+            services.AddControllers(opts => opts.SuppressAsyncSuffixInActionNames = false);
             services.AddSingleton<IMongoClient>(ServiceProvider =>
             {
                 var setting = Configuration.GetSection(nameof(MongoDbSettings)).Get<MongoDbSettings>();
