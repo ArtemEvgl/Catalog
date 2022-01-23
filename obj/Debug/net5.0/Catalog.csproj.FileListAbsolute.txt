@@ -43,3 +43,14 @@ D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\runtimes\win\native\snapp
 D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
 D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
 D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\HealthChecks.MongoDb.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Артём\projects\vs2019\Catalog\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
